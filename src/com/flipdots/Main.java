@@ -10,6 +10,10 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
+/*
+FlipDotJava library must be included in this project.
+ */
+
 public class Main {
 
     public static void main(String[] args) {
